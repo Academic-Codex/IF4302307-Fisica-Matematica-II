@@ -1,0 +1,12 @@
+REPO_TAGLINE: Complex analysis • Fourier methods • Green functions
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: notes
+SITE_URL: https://academic-codex.github.io/IF4302307-Fisica-Matematica-II
+
+BG_1: "#0B1020"
+BG_2: "#4C1D95"
+TEXT_MAIN: "#F5F3FF"
+TEXT_MUTED: "#E9D5FF"
+ACCENT: "#C084FC"
+CARD_RADIUS: "18"
