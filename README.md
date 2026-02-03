@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/IF4302307-Fisica-Matematica-II">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:39:47.485399Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/IF4302307-Fisica-Matematica-II?utm_source=IF4302307-Fisica-Matematica-II&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:39:52.901215Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
